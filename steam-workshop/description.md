@@ -63,7 +63,6 @@ Sadly, even the Federations update didn't change this fact.
 [url=https://github.com/n1ghthavvk/stellaris-galketion][img]https://i.imgur.com/0nVeF3I.png[/img][/url]
 Looking for my other creations?
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1998204784][img]https://i.imgur.com/wJgHgx8.jpg[/img][/url]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1904693690][img]https://i.imgur.com/y6YiZ6I.png[/img][/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2080968400][img]https://i.imgur.com/IBj3WfX.jpg[/img][/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2036087802][img]https://i.imgur.com/JCGnvng.jpg[/img][/url]
 
