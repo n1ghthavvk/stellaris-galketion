@@ -1,3 +1,6 @@
+Version 2.3.0
+* Update to game version 3.0.*
+
 Version 2.2.1
 * Migrated mod to GitHub
 
