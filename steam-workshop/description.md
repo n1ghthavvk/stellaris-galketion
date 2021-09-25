@@ -45,7 +45,7 @@ This mod edits [i]on_action_events.txt[/i]. Currently the one event that is over
 This is may break between updates - but it didn't for Federations, so it should be safe to assume it will continue to work even if I (god forbid) abandon the mod one day. Still, if you notice any bugs (like a way too small empire hosting the galactic market), please report it in the comments so I can fix the issue.
 
 [h1]Future Development & Notes[/h1]
-As requested, another mod that will exclude isolationist nations, less likely to engage in strong intergalactic trade, like xenophobe empires, will probably be developed in the near future. It will be posted on its own though, since it'd probably not be for everyone. Especially when playing a xenophobe empire yourself, you'd probably not want that mod installed. I'll leave a link here when I get to it.
+As requested, another mod that will exclude isolationist nations, less likely to engage in strong intergalactic trade, like xenophobe empires, will probably be developed in the near future. It will be posted on its own though, since it'd probably not be for everyone. Especially when playing a xenophobe empire yourself, you'd probably not want that mod enabled. I'll leave a link here when I get to it.
 
 If requested I can look into developing another mod that guarantees the country with the highest trade income will host the galactic market. In my opinion though, having a chance for each country, corresponding to their economic trading power is more realistic. This is especially true if multiple countries are on the same scale.
 

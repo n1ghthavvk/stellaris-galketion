@@ -54,85 +54,85 @@ country_event = {
 				}
 				# nominees start "equal", modifiers and trade_income improves chances
 				weights = {
-					# can use add or mult
+					# can use add or factor
 					base = 1
 					# trade_income is weighted quadratic, since the galactic market should be established within the greatest trading country
-					# since stellaris modding is so basic, you can't even assign trade_income directly to mult, we need to hardcode as many values as necessary
+					# since stellaris modding is so basic, you can't even assign trade_income directly to factor, we need to hardcode as many values as necessary
 					modifier = {
-						mult = 100
+						factor = 100
 						# 100
 						trade_income > 10
 					}
 					modifier = {
-						mult = 4
+						factor = 4
 						# 400
 						trade_income > 20
 					}
 					modifier = {
-						mult = 6.25
+						factor = 6.25
 						# 2500
 						trade_income > 50
 					}
 					modifier = {
-						mult = 4
+						factor = 4
 						# 10000
 						trade_income > 100
 					}
 					modifier = {
-						mult = 4
+						factor = 4
 						# 40000
 						trade_income > 200
 					}
 					# ...
-					modifier = {mult = 2.25 trade_income > 300}
-					modifier = {mult = 1.7778 trade_income > 400}
-					modifier = {mult = 1.5625 trade_income > 500}
-					modifier = {mult = 1.44 trade_income > 600}
-					modifier = {mult = 1.3611 trade_income > 700}
-					modifier = {mult = 1.3601 trade_income > 800}
-					modifier = {mult = 1.2656 trade_income > 900}
-					modifier = {mult = 1.2345 trade_income > 1000}
-					modifier = {mult = 1.44 trade_income > 1200}
-					modifier = {mult = 1.7778 trade_income > 1600}
-					modifier = {mult = 1.5625 trade_income > 2000}
-					modifier = {mult = 1.69 trade_income > 2600}
-					modifier = {mult = 1.5147 trade_income > 3200}
-					modifier = {mult = 4 trade_income > 6400}
-					modifier = {mult = 4 trade_income > 12800}
-					modifier = {mult = 4 trade_income > 25600}
+					modifier = {factor = 2.25 trade_income > 300}
+					modifier = {factor = 1.7778 trade_income > 400}
+					modifier = {factor = 1.5625 trade_income > 500}
+					modifier = {factor = 1.44 trade_income > 600}
+					modifier = {factor = 1.3611 trade_income > 700}
+					modifier = {factor = 1.3601 trade_income > 800}
+					modifier = {factor = 1.2656 trade_income > 900}
+					modifier = {factor = 1.2345 trade_income > 1000}
+					modifier = {factor = 1.44 trade_income > 1200}
+					modifier = {factor = 1.7778 trade_income > 1600}
+					modifier = {factor = 1.5625 trade_income > 2000}
+					modifier = {factor = 1.69 trade_income > 2600}
+					modifier = {factor = 1.5147 trade_income > 3200}
+					modifier = {factor = 4 trade_income > 6400}
+					modifier = {factor = 4 trade_income > 12800}
+					modifier = {factor = 4 trade_income > 25600}
 					# ^ anything more is entirely unrealistic for more than one country to achieve anyways
 					# market rating further increases the value as observed by the independent, and definitely not bribed, officials
 					# (value)^2 * 5
 					modifier = {
-						mult = 125
+						factor = 125
 						check_variable = {
 							which = market_rating
 							value = 5
 						}
 					}
 					modifier = {
-						mult = 90
+						factor = 90
 						check_variable = {
 							which = market_rating
 							value = 4
 						}
 					}
 					modifier = {
-						mult = 45
+						factor = 45
 						check_variable = {
 							which = market_rating
 							value = 3
 						}
 					}
 					modifier = {
-						mult = 20
+						factor = 20
 						check_variable = {
 							which = market_rating
 							value = 2
 						}
 					}
 					modifier = {
-						mult = 5
+						factor = 5
 						check_variable = {
 							which = market_rating
 							value = 1
