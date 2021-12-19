@@ -1,3 +1,6 @@
+Version 2.5.*
+* Update to game version 3.2.*
+
 Version 2.4.1
 * Fixed errors being caused by the usage of mult instead of factor when calculating the weight for the drawing.
 
