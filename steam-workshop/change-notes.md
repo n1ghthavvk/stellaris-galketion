@@ -1,3 +1,6 @@
+Version 2.10.0
+* Update to game version 3.7.*
+
 Version 2.9.0
 * Update to game version 3.6.*
 * Updated market foundation event to use the newest calculation as a base, but also include the countries' whole trade income as well.
